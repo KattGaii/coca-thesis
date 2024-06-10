@@ -9,4 +9,12 @@ This repository contains the materials used during the writing of the "Analysing
 - syllables_BP.py - determines syllables length. Used by extract_official.py
 - eval.xlsx - evaluation data used to determine accuracy. Not necesary for the Python code 
 
-To install the packages run: `pip install -r requirements.txt`
+To install the packages run: 
+  `pip install -r requirements.txt`
+To install the spacy large English model run:
+  `python -m spacy download en_core_web_lg`
+To install the benepar model run:
+  `import benepar`
+  `benepar.download('benepar_en3')`
+Or:
+  ``benepar.download('benepar_en3_large')``

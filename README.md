@@ -7,4 +7,6 @@ This repository contains the materials used during the writing of the "Analysing
 - parseTSV.py - use to parse the TSV file (file.tsv) with the standard BNP model. Results saved to a new csv file (/csv/parse_raw/file_raw.csv).
 - parseTSV_large.py - use to parse the TSV file (file.tsv) with the large BNP model. Results saved to a new csv file (/csv/parse_raw_large/file_raw.csv).
 - syllables_BP.py - determines syllables length. Used by extract_official.py
-- eval.xlsx - evaluation data used to determine accuracy.
+- eval.xlsx - evaluation data used to determine accuracy. Not necesary for the Python code 
+
+To install the packages run: pip install -r requirements.txt

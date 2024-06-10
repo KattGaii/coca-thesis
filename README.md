@@ -9,4 +9,4 @@ This repository contains the materials used during the writing of the "Analysing
 - syllables_BP.py - determines syllables length. Used by extract_official.py
 - eval.xlsx - evaluation data used to determine accuracy. Not necesary for the Python code 
 
-To install the packages run: pip install -r requirements.txt
+To install the packages run: `pip install -r requirements.txt`

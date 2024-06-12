@@ -20,6 +20,8 @@ import argparse
 import os
 
 from tqdm import tqdm
+from benepar import BeneparComponent, NonConstituentException
+
 
 
 def get_args():

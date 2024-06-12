@@ -1,6 +1,7 @@
 # coca-thesis
 This repository contains the materials used during the writing of the "Analysing Dependency Structure of Coordination Using a Constituency Parser and Dependency Length MinimizationPython" bachelor thesis. It contains Python code used to extract the coordination data and the R code used for the statistical analysis.
 
+- bnp_models_download.py - use to easily download the BNP models.
 - COCA_analysis.R - use for statistical analysis
 - coord_gov_BP.py - finds the governor of the coordination. Used by find_coord_data.py
 - extract_official.py - use to extract the lengths of conjuncts and produce the final csv table.

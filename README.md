@@ -53,4 +53,8 @@ To use the code you need to:
     cd path_to_files
     path_to_code/parseTSV_large filename1 filename2 filename3 ...
     ```
+12. To deactivate the virtual enviroment use:
+   ```
+   path_to_code\venv\Scripts\deactivate
+   ```
 

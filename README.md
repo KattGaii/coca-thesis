@@ -27,5 +27,6 @@ To install the benepar model run:
   ```
 Or:
   ```
+  import benepar
   benepar.download('benepar_en3_large')
   ```

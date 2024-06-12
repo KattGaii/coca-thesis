@@ -7,6 +7,7 @@ This repository contains the materials used during the writing of the "Analysing
 - extract_official.py - use to extract the lengths of conjuncts and produce the final csv table.
 - find_coord_data.py - use to find coordination data from a file_raw.csv.
 - find_coord_data_improved.py - improved version of find_coord_data.py. It fixes the issues pointed out in the limitation section of the thesis.
+- parse_sentence.py - use to parse a single sentence with the standard BNP model and retrive its coordination data. Additionally, a syntax tree is drawn.
 - parseTSV.py - use to parse the TSV file (file.tsv) with the standard BNP model. Results saved to a new csv file (/csv/parse_raw/file_raw.csv).
 - parseTSV_large.py - use to parse the TSV file (file.tsv) with the large BNP model. Results saved to a new csv file (/csv/parse_raw_large/file_raw.csv).
 - syllables_BP.py - determines syllables length. Used by extract_official.py

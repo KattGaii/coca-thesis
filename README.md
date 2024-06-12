@@ -14,7 +14,7 @@ This repository contains the materials used during the writing of the "Analysing
 - **syllables_BP.py** - determines syllables length. Used by extract_official.py
 - **eval.xlsx** - evaluation data used to determine accuracy. Not necesary for the Python code 
 
-## Step by step guide to run BNP the code ##
+## Step by step guide to run the BNP code ##
 The code was writen on Python version 3.9.13., and this is the recomended version.
 To use the code you need to:
 1. Download Python version 3.9.13 from https://www.python.org/downloads/release/python-3913/ (other versions may or may not work).

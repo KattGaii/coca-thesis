@@ -23,11 +23,5 @@ To install the spacy large English model run:
   ```
 To install the benepar model run:
   ```
-  import benepar
-  benepar.download('benepar_en3')
-  ```
-Or:
-  ```
-  import benepar
-  benepar.download('benepar_en3_large')
+  bnp_models_download.py
   ```

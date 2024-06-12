@@ -13,7 +13,6 @@ source: https://github.com/jkallini/PrincetonThesis
 import csv
 from sys import stderr
 import spacy
-from benepar import BeneparComponent, NonConstituentException
 
 import pandas as pd
 
@@ -21,7 +20,6 @@ import argparse
 import os
 
 from tqdm import tqdm
-from linecounter_BP import rawgencount
 
 
 def get_args():

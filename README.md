@@ -30,6 +30,7 @@ To use the code you need to:
    ```
 6. Activate the virtual environment. The terminal prompt should change to show (venv) before the folder path:
    ```
+   python -m venv
    venv\Scripts\activate
    ```
 7. Install the required packages:
